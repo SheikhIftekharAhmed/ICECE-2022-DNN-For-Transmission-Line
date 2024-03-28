@@ -1,6 +1,6 @@
 <h1 align="center">Deep Neural Network Based Fault Classification and Location Detection in Power Transmission Line</h1> 
 
-# Citation 
+## Citation 
 If you find our work helpful, please cite us. 
 
 Plain text (IEEE Format): 
