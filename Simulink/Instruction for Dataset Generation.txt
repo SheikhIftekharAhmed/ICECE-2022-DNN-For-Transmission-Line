@@ -1,4 +1,0 @@
-1. open simulink file 'conference_model.slx'
-2. run the script 'dataset_gen.m'
-
-change length values, file names as per your wish
