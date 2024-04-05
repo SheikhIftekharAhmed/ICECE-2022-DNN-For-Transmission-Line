@@ -1,5 +1,9 @@
 <h1 align="center">Deep Neural Network Based Fault Classification and Location Detection in Power Transmission Line</h1> 
 
+
+This repository contains the official implementation of our research work that has been published as a conference paper in ***12th International Conference on Electrical and Computer Engineering*** [(ICECE)](https://icece.buet.ac.bd/) 2022. You can read our paper tilted "***Deep Neural Network Based Fault Classification and Location Detection in Power Transmission Line***" in [IEEE Xplore](https://ieeexplore.ieee.org/document/10088794). Transmission lines constitute a significant portion of any power system and faults in these overhead transmission lines are common phenomena. Swift and efficient fault classification along with the identification of the exact location of fault occurrence, to isolate the affected region, is extremely essential for ensuring power system reliability. In our paper, we proposed a Deep Neural Network (DNN) based approach to address the problem of transmission line fault detection, classification, and fault location identification. 
+
+
 ## Citation 
 If you find our work helpful, please cite us. 
 
