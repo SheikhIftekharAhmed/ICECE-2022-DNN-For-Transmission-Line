@@ -12,7 +12,11 @@ To implement the codes, following libraries are need:
 * seaborn
 * tensorflow
 * keras
-The exact versions used for this repository is given in [requirements.txt](requirements.txt) file. 
+
+The exact versions used for this repository is given in [requirements.txt](requirements.txt) file. However, the latest versions of these libraries should work or the user can adjust the version if needed. If Colab is used, the default versions of these libraries should work. If local environemnt is used, the libraries can be installed using the following code:
+```
+pip install -r requirements.txt
+``` 
 
 ## Citation 
 If you find our work helpful, please cite us. 
