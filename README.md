@@ -16,10 +16,13 @@ To implement the codes, following libraries are need:
 The exact versions used for this repository is given in [requirements.txt](requirements.txt) file. However, the latest versions of these libraries should work or the user can adjust the version if needed. If Colab is used, the default versions of these libraries should work. If local environemnt is used, the libraries can be installed using the following code:
 ```
 pip install -r requirements.txt
-``` 
+```
+
+## Code 
+There are two seperate notebooks given in the [Code](Code) folder, one for classifying the fault types and another for detecting the location of the fault (in km) from the corresponding bus. Uning the sample dataset provided in the [Data](Data) folder, the codes can be implemented and the results can be produced as presented in the paper.  
 
 ## Citation 
-If you find our work helpful, please cite us. 
+If you find our work helpful or use our work, please cite us. 
 
 Plain text (IEEE Format): 
 ```
