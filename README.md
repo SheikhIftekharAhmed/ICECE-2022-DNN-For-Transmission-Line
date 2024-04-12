@@ -18,7 +18,7 @@ The exact versions used for this repository is given in [requirements.txt](requi
 pip install -r requirements.txt
 ```
 ## Data
-A sample dataset is provided in the [Data](Data) folder to implement the codes. Details of the matlab simulation for dataset creation in given in [SImulink](Simulink) folder. 
+A sample dataset is provided in the [Data](Data) folder to implement the codes. Details of the matlab simulation of the transmission line model and dataset creation in given in [SImulink](Simulink) folder. 
 
 ## DNN Model:
 
@@ -29,10 +29,6 @@ Model strudture for classifying the faults:
 Model structure for locating the fault in transmission line:
 
 <img src="https://github.com/Sheikh0541/ICECE-2022-DNN-For-Transmission-Line/assets/69375725/b009aeb6-8f38-4007-9406-656780732416" alt="flow9" width="500"/>
-
-
-
-
 
 
 ## Code 
