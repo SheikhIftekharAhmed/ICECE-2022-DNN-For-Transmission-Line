@@ -20,6 +20,20 @@ pip install -r requirements.txt
 ## Data
 A sample dataset is provided in the [Data](Data) folder to implement the codes. Details of the matlab simulation for dataset creation in given in [SImulink](Simulink) folder. 
 
+## DNN Model:
+
+Model strudture for classifying the faults:
+
+<img src="https://github.com/Sheikh0541/ICECE-2022-DNN-For-Transmission-Line/assets/69375725/143f17fc-b8ec-48af-8ae7-638937acfb0a" alt="flow9" width="500"/>
+
+Model structure for locating the fault in transmission line:
+
+<img src="https://github.com/Sheikh0541/ICECE-2022-DNN-For-Transmission-Line/assets/69375725/b009aeb6-8f38-4007-9406-656780732416" alt="flow9" width="500"/>
+
+
+
+
+
 
 ## Code 
 There are two seperate notebooks given in the [Code](Code) folder, one for classifying the fault types and another for detecting the location of the fault (in km) from the corresponding bus. Uning the sample dataset provided in the [Data](Data) folder, the codes can be implemented and the results can be produced as presented in the paper.  
