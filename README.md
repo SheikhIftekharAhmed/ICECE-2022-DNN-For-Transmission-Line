@@ -17,6 +17,9 @@ The exact versions used for this repository is given in [requirements.txt](requi
 ```
 pip install -r requirements.txt
 ```
+## Data
+A sample dataset is provided in the [Data](Data) folder to implement the codes. Details of the matlab simulation for dataset creation in given in [SImulink](Simulink) folder. 
+
 
 ## Code 
 There are two seperate notebooks given in the [Code](Code) folder, one for classifying the fault types and another for detecting the location of the fault (in km) from the corresponding bus. Uning the sample dataset provided in the [Data](Data) folder, the codes can be implemented and the results can be produced as presented in the paper.  
