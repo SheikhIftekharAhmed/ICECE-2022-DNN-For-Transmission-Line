@@ -41,15 +41,16 @@ There are two seperate notebooks given in the [Code](Code) folder, one for class
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+The license requires **attribution** (Section 3(a)), any external user is obligated to credit our work if they use or adapt our code. 
 
-For referencing our work, see the Citation Section below. 
+For referencing our work and to know exactly how to give attribution under CC BY-NC-SA 4.0, see the Citation Section below. 
 
 [cc-by-nc-sa]: https://spdx.org/licenses/CC-BY-NC-SA-4.0.html 
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg 
 
 ## Citation 
-If you find our work helpful or use our work, please cite us. 
+If you find our work helpful or **use our code** or **refer our research paper**, please cite us. 
 
 Plain text (IEEE Format): 
 ```
